@@ -1,1 +1,8 @@
-
+ gcc -g p1original.c -lm
+ ./a.out
+enter the value:
+2.5
+3.1
+4.9
+5.2
+The distance betwwen two points (2.5000003.100000) and (4.9000005.200000) is 1.350001:
