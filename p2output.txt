@@ -1,1 +1,12 @@
-
+ gcc -g p2original.c -lm
+ ./a.out
+enter trinangle 1
+2
+2.5
+enter trinangle 2
+3
+4
+enter trinangle 3
+4.2
+5
+ triangle 
