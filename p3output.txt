@@ -1,1 +1,5 @@
-
+ gcc -g p3original.c -lm
+ ./a.out
+enter number
+5
+prime
